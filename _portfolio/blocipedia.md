@@ -11,24 +11,62 @@ short-description: Build a production quality SaaS app that allows users to crea
 
 ## Explanation
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+As the sole contributor to this project my job entailed beginning with an outline of the program later
+
+colored in by thoughts and features I desired present in the app. This gave me free reign to choose a
+
+direction and design I saw fit for the idea and take initiative in every aspect; from drafting a sketch to
+
+carrying it out.
 
 ## Problem
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+People need a place where they can find reliable information. Other people need a place where they can
 
+post all of the information they know to be true. Enter Blocipedia. As a Wikipedia-inspired app, its goal is
+
+to serve as a host for information that users can write, co-author or edit existing information. There are
+
+times when you may only want a certain group to see what you’ve written or hide it until it’s ready to be
+
+published. Also an app where having a user profile could lead to good connection and collaboration.
 ## Solution
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+Building on my knowledge from the previous project, I decided to build this program using Rails. It’s
+
+basic structure and layout resembles that of Bloccit, but with some behind-the- scenes differences. The
+
+database tables are set up with a slight variation to better reflect the relationship of the data and the
+
+features. Users can also choose to upgrade their account (configured with Stripe and its corresponding
+
+Ruby gem) to further their account’s functionality.
 
 ## Results
+A web app that allows users that sign up and make entries. This information is kept accountable by
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+other users having the ability to edit those entries. Upgrading an account allows users to make their
 
-> Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+entries public or private and edit that field later should they change their mind. This also enables the
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+features of adding collaborators to your wiki entries and allowing only chosen individuals to make edits
+
+to your entry.
 
 ## Conclusion
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+Overall a great experience in building my first app from the ground up. Needing to rely on my own
+
+initiative to dream up and implement features helped me grow and expand my library of options and
+
+resources. I focused mostly on the backend and incorporation of features rather than a frontend user
+
+experience, which I would focus on next should I choose to make this a true live app. I had a few doubts
+
+about my ability to implement a collaborators option –enabling users to specifically choose other
+
+accounts to edit their entries— but I received a confidence boost in my resourcefulness in researching
+
+and interpreting of the resources obtained after I dove into it and successfully accomplished the tasks I
+
+set out to do.
