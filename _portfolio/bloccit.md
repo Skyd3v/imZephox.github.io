@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Bloccit
-thumbnail-path: "img/blocflix.png"
+thumbnail-path: "img/bloccit.png"
 short-description: Sharing ideas with the world
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocflix.png)
+![]({{ site.baseurl }}/img/bloccit.png)
 
 ## Explanation
 

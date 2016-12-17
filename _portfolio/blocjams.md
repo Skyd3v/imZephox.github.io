@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Blocjams
-thumbnail-path: "img/blocitoff.png"
+thumbnail-path: "img/blocjams.png"
 short-description: Jamming made in Angular
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocitoff.png)
+![]({{ site.baseurl }}/img/blocjams.png)
 
 ## Explanation
 
