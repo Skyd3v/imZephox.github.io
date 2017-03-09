@@ -1,15 +1,1 @@
-# Portfolio Kami Theme
-## Based on Type Theme
-
-![Default Type Theme blog](https://bloc-global-assets.s3.amazonaws.com/portfolio/portfolio-kami.png)
-
-A free and open-source [Jekyll](http://jekyllrb.com) theme. Great for blogs and easy to customize.
-
-## Get Started
-
-[Demo](http://madebymunsters.github.io/Lannister/)
-
-[Using Type](https://rohanchandra.github.io/project/type/)
-
-## License
-The MIT License (MIT)
+Welcome to my portfolio! I used Kami to assist me as a template to make my website.Feel free to visit but be informed this is a very beta version of a site and should be considered WIP
